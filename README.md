@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Interesting project related to my field**
 
-- 📝 I regularly write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
+- 📝 I write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
 
-- 💬 Ask me about **Java,MySql(Basics),JDBC,Maven,Hibernate,SpringBoot,HTML,CSS,JS**
+- 💬 I know **Java,MySql(Basics),JDBC,Maven,Hibernate,SpringBoot,HTML,CSS,JS**
 
-- 📫 How to reach me **mail2dpk.india@gmail.com**
+- 📫 Reach me on mail **mail2dpk.india@gmail.com**
 
 - ⚡ Fun fact **I don't let the things go...**
 
