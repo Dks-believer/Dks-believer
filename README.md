@@ -20,15 +20,15 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **springboot**
 
-- 🌱 I’m currently learning **Java,MySql,JDBC,Maven,Hibernate,SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Interesting project related to my field**
 
 - 📝 I write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
 
-- 💬 I know **Java,MySql(Basics),JDBC,Maven,Hibernate,SpringBoot,HTML,CSS,JS**
+- 💬 I know **SpringingBoot,Hibernate,JPA,Maven,JDBC,JAVA,JPQL,SQL,HTML,CSS,JS**
 
-- 📫 Reach me on mail **mail2dpk.india@gmail.com**
+-  mail:- **mail2dpk.india@gmail.com**
 
 - ⚡ Fun fact **I don't let the things go...**
 
