@@ -8,7 +8,7 @@
 Dks-believer/Dks-believer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638960504section1-badges.png)](https://dks-believer.io)
+<!-- [![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638960504section1-badges.png)](https://dks-believer.io) -->
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
