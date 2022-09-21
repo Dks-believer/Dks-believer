@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
 
-- 💬 I know **SpringingBoot,Hibernate,JPA,Maven,JDBC,JAVA,JPQL,SQL,HTML,CSS,JS**
+- 💬 I know **SpringingBoot,Hibernate,JPA,Maven,JDBC,JAVA,JPQL,SQL,HTML,CSS,and JS**
 
 -  mail:- **mail2dpk.india@gmail.com**
 
