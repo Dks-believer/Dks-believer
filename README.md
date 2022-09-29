@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Deepak kumar singh
-- 👀 I’m interested in Innovative coding...
-- 🌱 I’m currently learning Full stack web developent...
-- 💞️ I’m looking to collaborate on various project ideas..
-- 📫 How to reach me mail2dpk.india@gmail.com..
+
 
 <!---
 Dks-believer/Dks-believer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 <!-- [![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638960504section1-badges.png)](https://dks-believer.io) -->
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A talented individual with in-depth knowledge of JAVA and related frameworks like Hibernate, Springboot, and Rest API, embedded with the ability to work in a team and exceptional analytical abilities and DSA-solving skills.
+Seeking the role of Backend Developer and coding along with boosting my skill.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dks-believer&label=Profile%20views&color=0e75b6&style=flat" alt="dks-believer" /> </p>
@@ -20,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **springboot API**
 
-- 🌱 I’m currently learning **implementation of springboot on project **
+- 🌱 I’m currently learning **implementation of springboot on project**
 
 - 👯 I’m looking to collaborate on **Interesting project related to API generation, J2EE , and App development**
 
