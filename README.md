@@ -18,11 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🔭 I’m currently working on **springboot**
+- 🔭 I’m currently working on **springboot API**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **implementation of springboot on project **
 
-- 👯 I’m looking to collaborate on **Interesting project related to my field**
+- 👯 I’m looking to collaborate on **Interesting project related to API generation, J2EE , and App development**
 
 - 📝 I write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
 
