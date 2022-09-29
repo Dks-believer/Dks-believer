@@ -52,10 +52,10 @@ Seeking the role of Backend Developer and coding along with boosting my skill.</
 
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=dks-believer&show_icons=true&locale=en&layout=compact"alt="dks-believer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dks-believer&" alt="dks-believer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dks-believer" alt="dks-believer" /></p>
 
 
-<a href="https://github.com/dks-believer/github-readme-activity-graph"><img alt="Deepak kumar singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dpk-believer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dks-believer/github-readme-activity-graph"><img alt="Deepak Kumar Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dks-believer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
