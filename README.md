@@ -37,13 +37,13 @@ Seeking the role of Backend Developer and coding along with boosting my skill.</
  
 </p>
 
-<h3 align="left">Front Languages and Tools:</h3>
+<h3 align="left">Frontend Languages and Tools:</h3>
 
 <p align="left"><a href="https://www.w3schools.com/java/java_encapsulation.asp"> HTML   CSS   JS   JQUERY</p></a>
   
  <h3 align="left">Backend Languages and Frameworks:</h3>
    
-   <p align="left"><a href="https://www.w3schools.com/java/java_encapsulation.asp"> JAVA   JDBC   MAVEN   HIBERNATE   SPRINGBOOT</p></a>
+   <p align="left"><a href="https://www.w3schools.com/java/java_encapsulation.asp"> JAVA  JDBC   MAVEN   HIBERNATE   SPRINGBOOT</p></a>
    
    <h3 align="left">Databases:</h3>
    
