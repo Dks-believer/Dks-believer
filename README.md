@@ -21,17 +21,16 @@ Seeking the role of Backend Developer and coding along with boosting my skill.</
 
 - 👯 I’m looking to collaborate on **Interesting project related to API generation, J2EE , and App development**
 
-- 📝 I write articles on [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
-
 - 💬 I know **SpringingBoot,Hibernate,JPA,Maven,JDBC,JAVA,JPQL,SQL,HTML,CSS,and JS**
-
--  mail:- **mail2dpk.india@gmail.com**
 
 - ⚡ Fun fact **I don't let the things go...**
 
 <h3 align="left">Connect with me:</h3>
+
+- mail:- **mail2dpk.india@gmail.com**
+- medium:- [https://medium.com/@mail2dpk.india](https://medium.com/@mail2dpk.india)
 <p align="left">
-<a href="https://twitter.com/talk2dpk_india" target="blank">twitter<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talk2dpk_india" height="30" width="40" /></a>
+  <a href="https://twitter.com/talk2dpk_india" target="blank">twitter<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talk2dpk_india" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak-singh-07869421b/" target="blank">LinkedIn<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-singh-07869421b/" height="30" width="40" /></a>
 <a href="https://medium.com/@mail2dpk.india" target="blank">Medium<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mail2dpk.india" height="30" width="40" /></a>
  
