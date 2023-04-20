@@ -52,11 +52,22 @@ Seeking the role of Backend Developer and coding along with boosting my skills.<
 <!-- <p align="left">SPRINGBOOT HIBERNATE MAVEN <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">JAVA <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JPQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">SQL <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p> -->
 
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=dks-believer&show_icons=true&locale=en&layout=compact"alt="dks-believer" /></p>
+ <section>
+      <link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+    <div class="calendar">
+        <!-- Loading stuff -->
+        Loading the data just for you.
+    </div>
+   </section>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dks-believer" alt="dks-believer" /></p>
+
+<section id="gitstatus">        <div id="gitHead">            <h1>GitHub Stats & Current Strek</h1>        </div>        <div id="github-stats">            <img src="https://github-readme-stats.vercel.app/api?username=Dks-believer&show_icons=true&theme=cobalt">            <img src="https://github-readme-streak-stats.herokuapp.com?user=Dks-believer&theme=cobalt"                alt="GitHub Streak" />        </div>    </section>  
 
 
-<a href="https://github.com/dks-believer/github-readme-activity-graph"><img alt="Deepak Kumar Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dks-believer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
